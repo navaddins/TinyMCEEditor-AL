@@ -7,6 +7,7 @@ In order to work with Navision (2016, 2017, 2018 and BC), TinymceEditor is using
 
 ![Image](https://github.com/navaddins/TinyMCEEditor-AL/blob/main/Images/HtmlMode.png)
 
+![Image](https://github.com/navaddins/TinyMCEEditor-AL/blob/main/Images/TextMode.png)
 ## FAQ
 
 #### Does it work with BC?
