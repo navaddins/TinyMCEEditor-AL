@@ -79,7 +79,7 @@ Yes, as long as "TinyMCEEditor" is under AL Project Folder.
 
 #### Can i create my own skin and add to package?
 
-Yes, you can make your own skin from [TinyMCE Skin tool](http://skin.tiny.cloud/t5/) and download the skin from TinyMCE Skin tool and save at "TinyMCEEditor AL\App\08_ControllAddin\TinyMCEEditor\skins" folder. And then rebuiold the package again.
+Yes, you can make your own skin from [TinyMCE Skin tool](http://skin.tiny.cloud/t5/) and download the skin from TinyMCE Skin tool and save at "TinyMCEEditor AL\App\08_ControllAddin\TinyMCEEditor\skins" folder. And then rebuild the package again.
 
 #### How can i set my own skin when i run from AL?
 
@@ -148,7 +148,7 @@ Yes.
 
 ```al
 //Set True or False between Html and Text
-CurrPage.TinyMCEEditor.SetContent(True/False);
+CurrPage.TinyMCEEditor.SetContentType(True/False,True/False);
 ```
 
 #### Can i set View mode or Readonly mode?
